@@ -1,5 +1,5 @@
 # portalFrontEnd
-No front-end tive pouca ou nenhuma dificuldade, foi bem tranquilo de fazer e o que deu mais trabalho foi a tabela da pagina listar pois houveram alguns bugs inicialmente.
+Portal criado para um mini curso, conhecimentos e ferramentas utilizadas:  HTML, CSS, Bootstrap.
 
-# Como executar
-Para executar esse front-end basta forkar e depois de clonar para um repositorio local, abrir com o vscode e utilizar a extensão do live server para colocar no ar.
+# Como visualizar
+Para visualizar basta forkar e depois de clonar para um repositorio local, abrir com o vscode e utilizar a extensão do live server para colocar no ar.
